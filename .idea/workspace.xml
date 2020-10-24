@@ -10,24 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="21727adf-b76f-4aed-920a-88f3b4d1822f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/images/beeftenders.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blueberrypie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blueberrypie2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blueberrypie3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/blueberrypie4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mealforfour.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mealforthree.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/mealfortwo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/phillysteak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/steak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/steak2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/deals.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/orders.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/restaurant/questions.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurant/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurant/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +77,7 @@
       <workItem from="1603248594893" duration="30000" />
       <workItem from="1603248632502" duration="11000" />
       <workItem from="1603248654414" duration="444000" />
-      <workItem from="1603399969958" duration="23890000" />
+      <workItem from="1603399969958" duration="24327000" />
     </task>
     <servers />
   </component>
