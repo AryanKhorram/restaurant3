@@ -1,8 +1,19 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightsalmon;
 }
-
+h1{
+  font-size: 300%;
+  text-align:center;
+  text-decoration: underline;
+  font-family: "Baskerville"
+}
+foods{
+  text-align: left;
+  font-size: 150%;
+  font-family: Baskerville;
+}
 a {
   color: #00B7FF;
 }
